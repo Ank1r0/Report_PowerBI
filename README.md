@@ -39,8 +39,12 @@ Analyzed the relationship between posted speed limits and the severity of result
 Ranked streets and intersections by crash and injury count to prioritize safety improvements.
 
 The links to each part of the project: 
+
 Report: https://github.com/Ank1r0/Report_PowerBI
+
 Data cube: https://github.com/Ank1r0/SSAS_CPD_CRASHES
+
 ETL: https://github.com/Ank1r0/CPD_CRASH_SSIS-ETL-
+
 
 
